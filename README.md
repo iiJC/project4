@@ -12,6 +12,9 @@ pi 5
 - Could just play media
 
 - MC Server Runner and Display Basic stats
+  - Player Count
+  - Status: Running/Offline/Starting
+-   
 - Clock/Productivity Header
 - Pomodoro timer
 
