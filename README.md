@@ -18,5 +18,7 @@ pi 5
 - Clock/Productivity Header
 - Pomodoro timer
 
+- Stats
+
 - LCD Screen Required
 - Buttons (Optional, otherwise use phone)
